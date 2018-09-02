@@ -14,6 +14,8 @@ function onload(){
 // 3. Display the product of all numbers using reduce
 // Answer:
 
+//Final
+
 var results = []
 for (let i=0; i<numbers.length; i++){
     results = results.concat(String.fromCharCode(numbers[i]));
